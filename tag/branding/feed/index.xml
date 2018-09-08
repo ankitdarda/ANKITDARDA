@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>branding &#8211; ANKIT DARDA</title>
+	<atom:link href="https://github.com/ankitdarda/ANKITDARDA.git/tag/branding/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/ankitdarda/ANKITDARDA.git/</link>
+	<description>architecture + design</description>
+	<lastBuildDate>Thu, 30 Aug 2018 13:26:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Portfolio Mock Branding</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/blog/portfolio-mock-branding/</link>
+		<comments>https://github.com/ankitdarda/ANKITDARDA.git/blog/portfolio-mock-branding/#respond</comments>
+		<pubDate>Thu, 19 Dec 2013 22:29:47 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[branding]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[Work-Sample]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=206</guid>
+		<description><![CDATA[Sample mock branding images for my architecture portfolio 2014 Book with cover!  After six hours of stressful struggle with the Photoshop and internet, finally here is my portfolio mock branding sample ready for slide show. I always wanted to work and create on my own professional looking branding  mock. I used few free Photoshop templates [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Sample mock branding images for my architecture portfolio 2014 Book with cover!  After six hours of stressful struggle with the Photoshop and internet, finally here is my portfolio mock branding sample ready for slide show. I always wanted to work and create on my own professional looking branding  mock. I used few free Photoshop templates and actions from different websites for mock branding with my portfolio images. Template credit and copy right belong to respected website with content copyright belongs to myself.<span id="more-206"></span></p> <p style="text-align: justify;"><div class="wp-caption"><img class="ngg_displayed_gallery mceItem" src="https://github.com/ankitdarda/ANKITDARDA.git/nextgen-attach_to_post/preview/id--237" alt="" /></div></p> <p style="text-align: justify;">Please click on image to activate slide show. The entire mock branding for my design diagonal brand can be seen <a title="Product Branding" href="https://github.com/ankitdarda/ANKITDARDA.git/gallery/product-branding/">HERE</a>!</p> <p style="text-align: justify;">Keep calm and carry on good work!!</p> ]]></content:encoded>
+			<wfw:commentRss>https://github.com/ankitdarda/ANKITDARDA.git/blog/portfolio-mock-branding/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

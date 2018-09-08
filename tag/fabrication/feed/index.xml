@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fabrication &#8211; ANKIT DARDA</title>
+	<atom:link href="https://github.com/ankitdarda/ANKITDARDA.git/tag/fabrication/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/ankitdarda/ANKITDARDA.git/</link>
+	<description>architecture + design</description>
+	<lastBuildDate>Thu, 30 Aug 2018 13:26:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Fabricated Waffled Green Wall Prototype</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/digital-fabrication/green-wall/</link>
+		<pubDate>Fri, 28 Feb 2014 02:17:55 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Digital Fabrication]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[fabrication]]></category>
+		<category><![CDATA[installation]]></category>
+		<category><![CDATA[scad]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=616</guid>
+		<description><![CDATA[Project Details: Type: Academic Class: ELDS 745 &#124; Spring 2013 Professor: Ryan Bacha Software: Rhinoceros, CAD, Illustrator Materials: Corrugated Board, Laser Machine Project Description: It focuses on the inherent value of digital prototypes to evaluate the viability and performance of the design intent with respect to material selection, methods, and the implications of assembly to document the fabrication process.The Concept was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="text-decoration: underline;">Project Details:</span></p> <p>Type: Academic<br /> Class: ELDS 745 | Spring 2013<br /> Professor: Ryan Bacha<br /> Software: Rhinoceros, CAD, Illustrator<br /> Materials: Corrugated Board, Laser Machine</p> <p style="text-align: justify;"><span style="text-decoration: underline;">Project Description:</span><br /> It focuses on the inherent value of digital prototypes to evaluate the<em><strong> viability and performance</strong></em> of the design intent with respect to <em><strong>material selection, methods, and the implications of assembly</strong></em> to document the fabrication process.The Concept was to develop the Waffled Green Wall prototype to create a <em><strong>diverse connections between the spaces</strong></em> and allow <em><strong>multiple use of the structure</strong></em> as book shelve or showcase and at same time grow <em><strong>portable vegetation</strong></em> to filter the interior space.</p> <p style="text-align: justify;"><div class="wp-caption"><img class="width:100% alignleft wp-image-1720 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication14.jpg" alt="fabrication14" width="1280" height="750" /></div></p> ]]></content:encoded>
+			</item>
+		<item>
+		<title>Digital Fabrication and Prototyping</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/digital-fabrication/contouring/</link>
+		<pubDate>Fri, 28 Feb 2014 02:14:03 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Architecture]]></category>
+		<category><![CDATA[Digital Fabrication]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[fabrication]]></category>
+		<category><![CDATA[scad]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=607</guid>
+		<description><![CDATA[Project Details: Type: Academic Class: ELDS 745 &#124; Spring 2013 Professor: Ryan Bacha Software: Rhinoceros, Grasshopper, CAD, Illustrator Materials: 3-axis CNC Machine, Laser Machine, High-Density Foam Project Description: The course examined the fundamental principles of advanced digital prototyping and fabrication methods like Contouring, Folding, Paneling, Corbelling, and Cross-Sectioning forming for architecture and building design. It focuses on the inherent value of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="text-decoration: underline;">Project Details:</span></p> <p>Type: Academic<br /> Class: ELDS 745 | Spring 2013<br /> Professor: Ryan Bacha<br /> Software: Rhinoceros, Grasshopper,<br /> CAD, Illustrator<br /> Materials: 3-axis CNC Machine,<br /> Laser Machine, High-Density Foam</p> <p><span style="text-decoration: underline;">Project Description:</span></p> <p>The course examined the fundamental principles of advanced digital prototyping and fabrication methods like Contouring, Folding, Paneling, Corbelling, and Cross-Sectioning forming for architecture and building design. It focuses on the inherent value of digital prototypes to evaluate the viability and performance of the design intent with respect to material selection, methods, and the implications of assembly to document the fabrication process.</p> <div id="attachment_1733" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1733 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication11.jpg" alt="fabrication11" width="1280" height="750" /><p class="wp-caption-text">Paneling Tool Based Fabrication</p></div> <div id="attachment_1734" style="width: 1290px" class="wp-caption alignleft"><img class="width:100% wp-image-1734 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication12.jpg" alt="fabrication12" width="1280" height="750" /><p class="wp-caption-text">Rhino &#8211; Paneling Tool Process</p></div> <div id="attachment_1732" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1732 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication10.jpg" alt="fabrication10" width="1280" height="750" /><p class="wp-caption-text">Fabricated Folding Studies</p></div> <div id="attachment_1731" style="width: 1290px" class="wp-caption alignleft"><img class="width:100% wp-image-1731 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication9.jpg" alt="fabrication9" width="1280" height="750" /><p class="wp-caption-text">Fabricated Folding Study Process</p></div> <div id="attachment_1730" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1730 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication8.jpg" alt="fabrication8" width="1280" height="750" /><p class="wp-caption-text">Rhino Contouring Process and CNC Prototype</p></div> <div id="attachment_1729" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1729 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication7.jpg" alt="fabrication7" width="1280" height="750" /><p class="wp-caption-text">Rhino Contouring Process and Prototype Process</p></div> <div id="attachment_1728" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1728 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication6.jpg" alt="fabrication6" width="1280" height="750" /><p class="wp-caption-text">Waffle Fabricated Model</p></div> <div id="attachment_1725" style="width: 1290px" class="wp-caption alignleft"><img class="width:100% wp-image-1725 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication4.jpg" alt="fabrication4" width="1280" height="750" /><p class="wp-caption-text">Waffle Fabrication Process</p></div> <div id="attachment_1726" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1726 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/fabrication5.jpg" alt="fabrication5" width="1280" height="750" /><p class="wp-caption-text">Waffle Fabrication Process</p></div> ]]></content:encoded>
+			</item>
+		<item>
+		<title>SCAD Sand Art Festival Fund-Fun raising!!</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/blog/scad-sand-art-festival-fund-fun-raising/</link>
+		<comments>https://github.com/ankitdarda/ANKITDARDA.git/blog/scad-sand-art-festival-fund-fun-raising/#respond</comments>
+		<pubDate>Sun, 29 Dec 2013 22:18:57 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fabrication]]></category>
+		<category><![CDATA[installation]]></category>
+		<category><![CDATA[sand art festival]]></category>
+		<category><![CDATA[scad]]></category>
+		<category><![CDATA[Work-Sample]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=300</guid>
+		<description><![CDATA[The fun-fund raising from last quarter fabrication and prototyping class with Prof. Bacha at SCAD Sand Art Festival, Wind Sculpture category.  A team effort fund raising for our so called final project! We used 2X2 inches squares of different matte and gloss photo film to showcase a photo booth like wind sculpture. The efforts can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">The fun-fund raising from last quarter fabrication and prototyping class with Prof. Bacha at <a title="Sand Art Festival" href="http://web.scad.edu/experience/events/sand-arts/2013/" target="_blank">SCAD Sand Art Festival</a>, Wind Sculpture category.  A team effort fund raising for our so called final project! We used 2X2 inches squares of different matte and gloss photo film to showcase a photo booth like wind sculpture. The efforts can be seen below in slideshow:<span id="more-300"></span></p> <p style="text-align: justify;"><div class="wp-caption"><img class="alignleft wp-image-2201" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2013/12/sand-art3.jpg" alt="sand-art3" width="750" height="804" /></div> <div class="wp-caption"><img class="alignleft wp-image-2202" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2013/12/sand-art4.jpg" alt="sand-art4" width="750" height="499" /></div> <div class="wp-caption"><img class="alignleft wp-image-2203" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2013/12/sand-art5.jpg" alt="sand-art5" width="750" height="1001" /></div> <div class="wp-caption"><img class="alignleft wp-image-2204" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2013/12/sand-art6.jpg" alt="sand-art6" width="750" height="1001" /></div> <div class="wp-caption"><img class="alignleft wp-image-2205" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2013/12/sand-art7.jpg" alt="sand-art7" width="750" height="1001" /></div> <div class="wp-caption"><img class="alignleft wp-image-2206" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2013/12/sand-art1.jpg" alt="sand-art1" width="750" height="499" /></div></p> <p style="text-align: justify;"><span style="line-height: 1.5em;">The adventurous event can be evident from the following photograph (via SCAD Sand art festival/other sources) and finally we occupied third place with $200 prize money for our wind sculpture category!! </span><span style="line-height: 1.5em;">It was an enthusiastic and my very first experience working with classmates, Tybee beach, and professor. The other fabrication and prototyping work from same class can be reviewed </span><a style="line-height: 1.5em;" title="Digital Fabrication &amp; Prototyping" href="https://github.com/ankitdarda/ANKITDARDA.git/gallery/digital-fabrication-prototyping/">HERE</a><span style="line-height: 1.5em;">.</span></p> ]]></content:encoded>
+			<wfw:commentRss>https://github.com/ankitdarda/ANKITDARDA.git/blog/scad-sand-art-festival-fund-fun-raising/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

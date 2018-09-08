@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>grasshopper &#8211; ANKIT DARDA</title>
+	<atom:link href="https://github.com/ankitdarda/ANKITDARDA.git/tag/grasshopper/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/ankitdarda/ANKITDARDA.git/</link>
+	<description>architecture + design</description>
+	<lastBuildDate>Thu, 30 Aug 2018 13:26:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Grasshopper Weaving Strategies</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/archi/grasshopper-weaving/</link>
+		<pubDate>Mon, 21 Apr 2014 20:54:46 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Architecture]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[grasshopper]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=1307</guid>
+		<description><![CDATA[Project details: Class: ARCH 714 &#124; Winter 2014 Professor: Scott Dietz Software: Rhinoceros, Grasshopper Project description: The Objective of the assignment was to use weaving strategy as an element of parametric design in relation to surface/form and structure. Using the Grasshopper graphical algorithm editor to create a fully parametric surface and Weaving structure. The concept [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><span style="text-decoration: underline;">Project details:</span></p> <p style="text-align: justify;">Class: ARCH 714 | Winter 2014<br /> Professor: Scott Dietz<br /> Software: Rhinoceros, Grasshopper</p> <p style="text-align: justify;"><span style="text-decoration: underline;">Project description:</span></p> <p style="text-align: justify;">The Objective of the assignment was to use weaving strategy as an element of parametric design in relation to surface/form and structure. Using the Grasshopper graphical algorithm editor to create a fully parametric surface and Weaving structure. The concept was developed by Bamboo Netting for preparing vessels, pots and other daily furniture.</p> <div id="attachment_1608" style="width: 1290px" class="wp-caption alignnone"><img class="wp-image-1608 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/04/parametric_4_3.jpg" alt="parametric_4_3" width="1280" height="750" /><p class="wp-caption-text">Weaving Pattern Over Form</p></div> <div id="attachment_1606" style="width: 1290px" class="wp-caption alignnone"><img class="wp-image-1606 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/04/parametric_4_1.jpg" alt="parametric_4_1" width="1280" height="750" /><p class="wp-caption-text">Grasshopper Weaving Process and Patterns</p></div> <div id="attachment_1609" style="width: 1290px" class="wp-caption alignnone"><img class="wp-image-1609 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/04/parametric_4_4.jpg" alt="parametric_4_4" width="1280" height="750" /><p class="wp-caption-text">Weaving Grasshopper Defination</p></div> ]]></content:encoded>
+			</item>
+		<item>
+		<title>High Speed Rail Grasshopper Canopy</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/digital-fabrication/grasshopper_canopy/</link>
+		<pubDate>Sat, 01 Mar 2014 04:17:53 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Architecture]]></category>
+		<category><![CDATA[Digital Fabrication]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[grasshopper]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=702</guid>
+		<description><![CDATA[Project details: Class: ARCH 714 &#124; Winter 2014 Professor: Scott Dietz Software: Rhinoceros, Grasshopper Project description: The Objective of the assignment was to use a Pattern Mapping strategy as an element of parametric design as it relates to surface Form and Structure/Enclosure inside Grasshopper graphical algorithm and Rhino Environment to develop the High-Speed Rail Grasshopper [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><span style="text-decoration: underline;">Project details:</span></p> <p style="text-align: justify;">Class: ARCH 714 | Winter 2014<br /> Professor: Scott Dietz<br /> Software: Rhinoceros, Grasshopper</p> <p style="text-align: justify;"><span style="text-decoration: underline;">Project description:</span></p> <p style="text-align: justify;">The Objective of the assignment was to use a Pattern Mapping strategy as an element of parametric design as it relates to surface Form and Structure/Enclosure inside Grasshopper graphical algorithm and Rhino Environment to develop the High-Speed Rail Grasshopper Canopy. The concept was developed by the biological pigments. The growth and the balance within them.</p> <p><div id="attachment_1630" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1630 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/parametric_3_5.jpg" alt="parametric_3_5" width="1280" height="750" /><p class="wp-caption-text">Canopy Rhino Form</p></div><br /> <div id="attachment_1629" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1629 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/parametric_3_4-e1449453751230.jpg" alt="parametric_3_4" width="1280" height="508" /><p class="wp-caption-text">Formal Flexed Geometry</p></div><br /> <div id="attachment_1627" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1627 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/parametric_3_2.jpg" alt="parametric_3_2" width="1280" height="750" /><p class="wp-caption-text">Process and Pattern Overlay</p></div></p> <div id="attachment_1628" style="width: 1290px" class="wp-caption alignnone"><img class="width:100% wp-image-1628 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2014/02/parametric_3_3.jpg" alt="parametric_3_3" width="1280" height="750" /><p class="wp-caption-text">Grasshopper Defination</p></div> ]]></content:encoded>
+			</item>
+	</channel>
+</rss>

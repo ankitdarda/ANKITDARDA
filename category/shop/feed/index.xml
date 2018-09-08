@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop &#8211; ANKIT DARDA</title>
+	<atom:link href="https://github.com/ankitdarda/ANKITDARDA.git/category/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/ankitdarda/ANKITDARDA.git/</link>
+	<description>architecture + design</description>
+	<lastBuildDate>Thu, 30 Aug 2018 13:26:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Design Diagonal WordPress Portfolio Theme (Coming Soon!)</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/shop/design-diagonal-wordpress-theme/</link>
+		<pubDate>Mon, 14 Dec 2015 17:17:02 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Shop]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=2786</guid>
+		<description><![CDATA[Theme Description: Minimalist WordPress Theme for Design Professionals who loves your work and only focus on that. Make it yours soon&#8230; Responsiveness and Flexibility The theme’s layout automatically fits on any screen resolution, responding to both desktops and mobile devices. The images stretch according to the screen size and the convenient mobile device menu won’t let [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="text-decoration: underline;">Theme Description:</span> Minimalist WordPress Theme for Design Professionals who loves your work and only focus on that. Make it yours soon&#8230;</p> <div class="title"><strong>Responsiveness and Flexibility</strong></div> <p>The theme’s layout automatically fits on any screen resolution, responding to both desktops and mobile devices. The images stretch according to the screen size and the convenient mobile device menu won’t let you get lost.</p> <div class="title"><strong>Big &amp; Clean Layout</strong></div> <p>Your works and nothing else. The theme is designed so as not to distract the user from your beautiful works, the elements of the website take up very little space to highlight what’s important.</p> <div class="title"><strong>Minimalist design for your content with a unique user experience</strong></div> <p>Unlike most WordPress themes Design Diagonal is using minimalist approach that better focus on your content and makes a powerful impact on users.</p> <div class="title"><strong>Easy to Use</strong></div> <p>No additional fields, plugins or complex operations. Simply create a standard gallery and add it to a post – that’s all it takes to set up your portfolio page.</p> <div class="title"><strong>Easy to Customize</strong></div> <p>A well-commented code, the minimal amount of elements and the design built completely on em units allow you changing the layout with very little effort. For example, to change the font size you’ll only need to change one string of code.</p> <div id="attachment_2802" style="width: 1391px" class="wp-caption alignnone"><img class="wp-image-2802 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2015/12/DD_13.png" alt="DD_13" width="1381" height="793" /><p class="wp-caption-text">Front Page with Image Slide to showcase your work</p></div> <div id="attachment_2803" style="width: 1391px" class="wp-caption alignnone"><img class="wp-image-2803 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2015/12/DD_12.png" alt="DD_12" width="1381" height="793" /><p class="wp-caption-text">Text Vertical Page layout with three column content setting</p></div> <div id="attachment_2804" style="width: 506px" class="wp-caption alignnone"><img class="wp-image-2804 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2015/12/DD_11.png" alt="DD_11" width="496" height="431" /><p class="wp-caption-text">Responsive Mobile/Tablet Screen Adaptation</p></div> <p>&nbsp;</p> ]]></content:encoded>
+			</item>
+		<item>
+		<title>Monoprint ($40)</title>
+		<link>https://github.com/ankitdarda/ANKITDARDA.git/shop/product-1/</link>
+		<pubDate>Sun, 13 Dec 2015 21:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[ankitdarda]]></dc:creator>
+				<category><![CDATA[Shop]]></category>
+
+		<guid isPermaLink="false">https://github.com/ankitdarda/ANKITDARDA.git/?p=2710</guid>
+		<description><![CDATA[Product Description: These are some of the work based on monoprint technique and their evolution through the process using different colors, objects, and patterns. Size: 8.5&#8243; X 11&#8243; [wp_cart:Monoprint 1:price:40:shipping:5:var1[Quantity&#124;01]:end] &#160;]]></description>
+				<content:encoded><![CDATA[<p><span style="text-decoration: underline;">Product Description:</span> These are some of the work based on monoprint technique and their evolution through the process using different colors, objects, and patterns.</p> <p>Size: 8.5&#8243; X 11&#8243;</p> <p>[wp_cart:Monoprint 1:price:40:shipping:5:var1[Quantity|01]:end]</p> <p><div class="wp-caption"><img class="alignnone wp-image-2764 size-full" src="https://github.com/ankitdarda/ANKITDARDA.git/wp-content/uploads/2015/12/shop_monoprint.jpg" alt="shop_monoprint" width="372" height="750" /></div></p> <p>&nbsp;</p> ]]></content:encoded>
+			</item>
+	</channel>
+</rss>
